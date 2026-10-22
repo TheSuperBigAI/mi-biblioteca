@@ -1,3 +1,4 @@
-Lista de libros:
-- Cien Años de Soledad
-- El Principito
+Lista de Autores:
+- Gabriel Garcia Marquez
+- Antonie de Saint-Exupery
+- Julio Cotázar
